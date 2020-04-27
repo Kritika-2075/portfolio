@@ -1,0 +1,65 @@
+@charset "ISO-8859-1";
+body {
+  font-family: "Avenir Next";
+ }
+
+
+.header {
+  background-color: #26d0c9;
+   color: #fff00;
+  height: 80px;
+}
+
+.header-logo {
+	font-family:Algerian;
+  	float: left;
+  	font-size:36px;
+  padding: 20px 40px;
+}
+.main {
+ background: FFFAF0;
+ color:#000000;
+  height: 500px;
+}
+/*.copy-container h1 {
+  font-size: 40px;
+  float:left;
+}*/
+.image{
+	float:right;
+	
+}
+.image2{
+	float:right;
+	margin-bottom:0px
+	
+}
+
+/*.copy-container h2 {
+  font-size: 20px;
+}*/
+
+.skill{
+	float: left;
+  margin-right: 40px;
+	
+}
+.footer {
+  background-color: #2f5167;
+  color:#fff;
+  height: 90px;
+  padding:40px;
+  
+}
+
+.footer-logo{
+  font-size:32px;
+  float:left;
+}
+.footer-list{
+  float:left;
+}
+.footer-list li{
+  padding-bottom:20px;
+  
+}
