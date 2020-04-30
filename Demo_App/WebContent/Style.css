@@ -21,10 +21,6 @@ body {
  color:#000000;
   height: 500px;
 }
-/*.copy-container h1 {
-  font-size: 40px;
-  float:left;
-}*/
 .image{
 	float:right;
 	
@@ -34,11 +30,6 @@ body {
 	margin-bottom:0px
 	
 }
-
-/*.copy-container h2 {
-  font-size: 20px;
-}*/
-
 .skill{
 	float: left;
   margin-right: 40px;
